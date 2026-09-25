@@ -19,6 +19,12 @@
 	<img alt="GitHub contribution streak snake" src="https://raw.githubusercontent.com/chishibekabwe7/chishibekabwe7/output/dist/github-contribution-grid-snake.svg">
 </picture>
 
+## GitHub Contributions
+
+![GitHub contribution streak 1](./Github%20Contributions%20%28Streaks%29/1.png)
+![GitHub contribution streak 2](./Github%20Contributions%20%28Streaks%29/2.png)
+![GitHub contribution streak 3](./Github%20Contributions%20%28Streaks%29/3.png)
+
 ---
 
 ## About
