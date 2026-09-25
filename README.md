@@ -13,6 +13,12 @@
 **Aspiring Big Data Analyst, Software Engineer, Network Engineer, Generative AI Engineer & Database Architect | Student**
 
 
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chishibekabwe7/chishibekabwe7/output/dist/github-contribution-grid-snake-dark.svg">
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chishibekabwe7/chishibekabwe7/output/dist/github-contribution-grid-snake.svg">
+	<img alt="GitHub contribution streak snake" src="https://raw.githubusercontent.com/chishibekabwe7/chishibekabwe7/output/dist/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## About
