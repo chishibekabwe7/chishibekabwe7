@@ -1,89 +1,81 @@
 # Chishibe Kabwe
 
-Full-Stack Developer | Aspiring Network & Data Engineer | BSc Information Systems Student
+**Aspiring Big Data Analyst, Software Engineer, Network Engineer, Generative AI Engineer & Database Architect | Student**
+
+
+---
 
 ## About
-
-I am a BSc Information Systems student at Copperbelt University in Kitwe, Zambia, studying from November 2023 to September 2028 and currently in Year 2. I have more than three years of freelance full-stack development experience and currently work as a Python Development Intern at Codveda Technologies.
-
-## Currently
-
-- Building Elitrack Logistics, a full-stack fleet management and GPS tracking platform
-- Building Pact ("Habits, Witnessed"), a Django habit-accountability app and CS50W final project
-- Scoping a network automation project combining Python with Netmiko and GNS3 alongside a React dashboard
-- Completing coursework in Java OOP/GUI, Database Systems, Systems Analysis & Design, and Data Communications & Networks
+I'm a passionate BSc Information Systems student at The Copperbelt University and an AI enthusiast, aspiring to become a Generative AI Engineer, with aspirations to earn the Cisco CCNA and CISA (Certified Information Systems Auditor) certifications. My friends and colleagues call me a "Digital Alchemist" a title I earned because of my diverse set of digital skills and my ability to leverage technology and AI to solve business problems.
 
 ## Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Databases & ORM**
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Networking**
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-005073?style=flat-square&logo=cisco&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ## Featured Projects
 
-### [Elitrack Logistics](https://github.com/chishibekabwe7/REPLACE_WITH_ELITRACK_REPOSITORY)
+### [Elitrack Logistics](https://github.com/chishibekabwe7)
+Full-stack fleet management and GPS tracking system. NestJS backend, React 18 frontend, Prisma ORM on MariaDB, JWT and Google OAuth. Real-time GPS tracking via a TCP server parsing the GT06 binary protocol from a SinoTrack ST-901AL device, with a WebSocket gateway, geofencing, speed/idle alerts, trip detection, driver behavior scoring, CSV/PDF export.
 
-Elitrack Logistics is a full-stack fleet management and GPS tracking platform with a NestJS backend, React 18 frontend, Prisma ORM on MariaDB, JWT and Google OAuth authentication, and real-time GPS tracking through a TCP server that parses the GT06 binary protocol. It includes a WebSocket gateway, geofencing, speed and idle alerts, trip detection, driver behavior scoring, and CSV/PDF export.
+### [Pact — "Habits, Witnessed"](https://github.com/chishibekabwe7)
+Django habit-accountability app built as a CS50W final project, with a social verification mechanic. Core models cover users, friendships, pacts, check-ins, and verifications.
 
-### [Pact ("Habits, Witnessed")](https://github.com/chishibekabwe7/REPLACE_WITH_PACT_REPOSITORY)
-
-Pact is a Django habit-accountability app with a social verification mechanic. Its core models cover users, friendships, pacts, check-ins, and verifications.
-
-### [Network Automation](https://github.com/chishibekabwe7/REPLACE_WITH_NETWORK_AUTOMATION_REPOSITORY)
-
-This project combines Python automation with Netmiko and GNS3 with a React dashboard, alongside a documented Cisco Packet Tracer VLAN case study.
-
-## Live Deployments
-
-| Project | Link |
-| --- | --- |
-| Ziba Crib | [zibacrib.com](https://zibacrib.com/) |
-| Zam Edge | [zam-edge.web.app](https://zam-edge.web.app/) |
-| Chishibe Kabwe Organization | [chishibes-organization.web.app](https://chishibes-organization.web.app/) |
-| Major's Electronic Hub | [major-s-electronic-hub.web.app](https://major-s-electronic-hub.web.app/) |
-| Kay Graphics | [kay-graphics.web.app](https://kay-graphics.web.app/) |
-| B Dangerous Empire Music Site | [b-dangerous-empire-414b1.web.app](https://b-dangerous-empire-414b1.web.app/) |
-| Kat Kat Music Library | [kat-kat-5ec4a.web.app](https://kat-kat-5ec4a.web.app/) |
-| Zam Media Slots | [zam-media-slots.web.app](https://zam-media-slots.web.app/) |
-| Chishibe Kabwe Studio X | [chishibes-studio-x.web.app](https://chishibes-studio-x.web.app/) |
-
-<details>
-<summary>Resume Sites</summary>
-
-| Resume site | Link |
-| --- | --- |
-| Chishibe Kabwe Resume 24 | [chishibekabwe24-resume.web.app](https://chishibekabwe24-resume.web.app/) |
-| Chishibe Kabwe Resume 7 | [chishibekabwe7-resume.web.app](https://chishibekabwe7-resume.web.app/) |
-| Chishibe Kabwe Main Resume | [chishibes-resume.web.app](https://chishibes-resume.web.app/) |
-| Mfuta Kabwe Resume | [mfuta-kabwe-resume.web.app](https://mfuta-kabwe-resume.web.app/) |
-| Sichone Resume | [sichones-resume.web.app](https://sichones-resume.web.app/) |
-
-</details>
+### Network Automation & NetDevOps
+Python-based network automation using netmiko and GNS3, paired with a React dashboard. Built alongside a documented Packet Tracer VLAN case study (multi-VLAN bank branch network with inter-VLAN routing, DHCP, port security, and static routing).
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chishibe-kabwe-7734502ab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://chishibes-portfolio.web.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://chishibes-portfolio.web.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chishibekabwe7@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ChishibeKabwe24)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/chishibe.cbkabwe.1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/chishibe_kabwe24/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@chishibe_kabwe24)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@chishibe_kabwe24)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21120957/)
+
+---
 
 <details>
 <summary>GitHub Stats</summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chishibekabwe7&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chishibekabwe7&layout=compact&hide_border=true&theme=default)
+![Chishibe Kabwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chishibekabwe7&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chishibekabwe7&layout=compact&hide_border=true)
 
 </details>
